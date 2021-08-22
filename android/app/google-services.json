@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660442602931",
+    "project_id": "words-e735d",
+    "storage_bucket": "words-e735d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660442602931:android:8ee35af41867bf5126ffc6",
+        "android_client_info": {
+          "package_name": "com.llfbandit.words"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660442602931-k75t0lkbq2iopjjna3afjgrdvqast726.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH4mwiLb8Tf1oV0-X7o_vBNTzfa6Rg_pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660442602931-k75t0lkbq2iopjjna3afjgrdvqast726.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/llfbandit/record_example/MainActivity.java
+ com.llfbandit.words.MainActivity
+com/llfbandit/words/BuildConfig.java
+ com.llfbandit.words.BuildConfig

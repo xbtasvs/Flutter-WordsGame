@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\words\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kuk\\.gradle\\caches\\transforms-3\\fbe5bf9c81a58d124a884fc922657641\\transformed\\jetified-media2-session-1.1.0-alpha01\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,256,351,470",
+                        "endColumns": "103,96,94,118,128",
+                        "endOffsets": "154,251,346,465,594"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kuk\\.gradle\\caches\\transforms-3\\3245504a398b4d6f5970b997792b0572\\transformed\\core-1.7.0-alpha01\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "599",
+                        "endColumns": "100",
+                        "endOffsets": "695"
+                    }
+                }
+            ]
+        }
+    ]
+}

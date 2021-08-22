@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\words\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\kuk\\.gradle\\caches\\transforms-3\\85bb2cd3657f8470c5ee66dfbe2b6e53\\transformed\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\words\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\kuk\\.gradle\\caches\\transforms-3\\85bb2cd3657f8470c5ee66dfbe2b6e53\\transformed\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\words\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\kuk\\.gradle\\caches\\transforms-3\\85bb2cd3657f8470c5ee66dfbe2b6e53\\transformed\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\words\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\kuk\\.gradle\\caches\\transforms-3\\85bb2cd3657f8470c5ee66dfbe2b6e53\\transformed\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
